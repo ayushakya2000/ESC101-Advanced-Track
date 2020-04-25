@@ -5,6 +5,3 @@ To Play game, open chess.exe in GameWindows folder.
 To open Unity scenes. Download Unity at https://unity3d.com/get-unity/download
 
 The scripts folder contains all the codes i have written in this project, which have powered unity.
-
-Since github didn't allow me to upload more than 100 files at once or files more than 25MB+,
-I splitted them into parts. Sorry for inconvenience.
